@@ -10,11 +10,11 @@
     "uptimeWeek": "96.65%",
     "uptimeMonth": "96.65%",
     "uptimeYear": "96.65%",
-    "time": 430,
-    "timeDay": 502,
-    "timeWeek": 430,
-    "timeMonth": 430,
-    "timeYear": 430,
+    "time": 438,
+    "timeDay": 505,
+    "timeWeek": 438,
+    "timeMonth": 438,
+    "timeYear": 438,
     "dailyMinutesDown": {
       "2023-07-07": 84,
       "2023-07-05": 65,
@@ -27,16 +27,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "efficast-website",
     "status": "up",
-    "uptime": "77.68%",
-    "uptimeDay": "77.68%",
-    "uptimeWeek": "77.68%",
-    "uptimeMonth": "77.68%",
-    "uptimeYear": "77.68%",
-    "time": 2941,
-    "timeDay": 2941,
-    "timeWeek": 2941,
-    "timeMonth": 2941,
-    "timeYear": 2941,
+    "uptime": "77.90%",
+    "uptimeDay": "77.90%",
+    "uptimeWeek": "77.90%",
+    "uptimeMonth": "77.90%",
+    "uptimeYear": "77.90%",
+    "time": 2933,
+    "timeDay": 2933,
+    "timeWeek": 2933,
+    "timeMonth": 2933,
+    "timeYear": 2933,
     "dailyMinutesDown": {
       "2023-07-07": 74
     }
@@ -47,18 +47,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "efficast-testing-server",
     "status": "down",
-    "uptime": "52.95%",
-    "uptimeDay": "52.95%",
-    "uptimeWeek": "52.95%",
-    "uptimeMonth": "52.95%",
-    "uptimeYear": "52.95%",
+    "uptime": "52.43%",
+    "uptimeDay": "52.43%",
+    "uptimeWeek": "52.43%",
+    "uptimeMonth": "52.43%",
+    "uptimeYear": "52.43%",
     "time": 322,
     "timeDay": 322,
     "timeWeek": 322,
     "timeMonth": 322,
     "timeYear": 322,
     "dailyMinutesDown": {
-      "2023-07-07": 156
+      "2023-07-07": 159
     }
   },
   {
@@ -72,11 +72,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 834,
-    "timeDay": 834,
-    "timeWeek": 834,
-    "timeMonth": 834,
-    "timeYear": 834,
+    "time": 787,
+    "timeDay": 787,
+    "timeWeek": 787,
+    "timeMonth": 787,
+    "timeYear": 787,
     "dailyMinutesDown": {}
   },
   {
@@ -85,18 +85,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "odoo-testing",
     "status": "down",
-    "uptime": "9.88%",
-    "uptimeDay": "9.88%",
-    "uptimeWeek": "9.88%",
-    "uptimeMonth": "9.88%",
-    "uptimeYear": "9.88%",
+    "uptime": "1.02%",
+    "uptimeDay": "1.02%",
+    "uptimeWeek": "1.02%",
+    "uptimeMonth": "1.02%",
+    "uptimeYear": "1.02%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-07": 0
+      "2023-07-07": 4
     }
   }
 ]
