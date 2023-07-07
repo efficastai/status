@@ -4,11 +4,11 @@ repo: status # The name of this repository
 
 sites:
   - name: Efficast
-    url: ${{ secrets.EFFICAST_URL }}
+    url: $EFFICAST_URL
   - name: Efficast Website
-    url: ${{ secrets.EFFICAST_WEBSITE_URL }}
+    url: $EFFICAST_WEBSITE_URL
   - name: Efficast Testing Server
-    url: ${{ secrets.EFFICAST_TESTING_IP }}
+    url: $EFFICAST_TESTING_IP
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
