@@ -11,8 +11,6 @@ sites:
     url: $EFFICAST_TESTING_IP
   - name: Odoo Production
     url: $ODOO_URL
-  - name: Odoo Testing
-    url: $ODOO_TESTING_URL
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
