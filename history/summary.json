@@ -1,49 +1,49 @@
 [
   {
     "name": "Efficast",
-    "url": "${{ secrets.EFFICAST_URL }}",
+    "url": "${{ env.EFFICAST_URL }}",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "efficast",
     "status": "down",
-    "uptime": "97.59%",
-    "uptimeDay": "97.66%",
-    "uptimeWeek": "97.59%",
-    "uptimeMonth": "97.59%",
-    "uptimeYear": "97.59%",
+    "uptime": "96.88%",
+    "uptimeDay": "95.49%",
+    "uptimeWeek": "96.88%",
+    "uptimeMonth": "96.88%",
+    "uptimeYear": "96.88%",
     "time": 325,
     "timeDay": 295,
     "timeWeek": 325,
     "timeMonth": 325,
     "timeYear": 325,
     "dailyMinutesDown": {
-      "2023-07-07": 34,
+      "2023-07-07": 65,
       "2023-07-05": 65,
       "2023-07-04": 3
     }
   },
   {
     "name": "Efficast Website",
-    "url": "${{ secrets.EFFICAST_WEBSITE_URL }}",
+    "url": "${{ env.EFFICAST_WEBSITE_URL }}",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "efficast-website",
     "status": "down",
-    "uptime": "0.06%",
-    "uptimeDay": "0.06%",
-    "uptimeWeek": "0.06%",
-    "uptimeMonth": "0.06%",
-    "uptimeYear": "0.06%",
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-07": 28
+      "2023-07-07": 59
     }
   },
   {
     "name": "Efficast Testing Server",
-    "url": "${{ secrets.EFFICAST_TESTING_IP }}",
+    "url": "${{ env.EFFICAST_TESTING_IP }}",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "efficast-testing-server",
     "status": "down",
@@ -58,7 +58,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-07": 28
+      "2023-07-07": 59
     }
   }
 ]
