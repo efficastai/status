@@ -16,7 +16,7 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /status
   logoUrl: https://efficast.ai/storage/logoBlanco_.png
-  name: 
+  name: Efficast Status
   introTitle: "**Monitor**"
   navbar:
     - title: Status
