@@ -1,21 +1,22 @@
 [
   {
     "name": "Efficast",
-    "url": "http://66.97.37.100:8080",
-    "icon": "https://icons.duckduckgo.com/ip3/66.97.37.100.ico",
+    "url": "${{secrets.EFFICAST_URL}}",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "efficast",
-    "status": "up",
-    "uptime": "98.07%",
+    "status": "down",
+    "uptime": "98.37%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.07%",
-    "uptimeMonth": "98.07%",
-    "uptimeYear": "98.07%",
+    "uptimeWeek": "98.37%",
+    "uptimeMonth": "98.37%",
+    "uptimeYear": "98.37%",
     "time": 325,
     "timeDay": 295,
     "timeWeek": 325,
     "timeMonth": 325,
     "timeYear": 325,
     "dailyMinutesDown": {
+      "2023-07-07": 0,
       "2023-07-05": 65,
       "2023-07-04": 3
     }
