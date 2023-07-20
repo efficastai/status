@@ -26,7 +26,7 @@
     "url": "$EFFICAST_WEBSITE_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "efficast-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.38%",
@@ -38,6 +38,7 @@
     "timeMonth": 3745,
     "timeYear": 3745,
     "dailyMinutesDown": {
+      "2023-07-20": 0,
       "2023-07-15": 18,
       "2023-07-14": 44,
       "2023-07-07": 74
