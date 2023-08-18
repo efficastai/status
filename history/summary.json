@@ -54,7 +54,7 @@
     "url": "$EFFICAST_TESTING_IP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "efficast-testing-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.01%",
     "uptimeDay": "98.40%",
     "uptimeWeek": "99.08%",
