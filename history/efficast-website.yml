@@ -1,7 +1,7 @@
 url: $EFFICAST_WEBSITE_URL
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-12-30T23:53:16.912Z
+status: up
+code: 200
+responseTime: 1438
+lastUpdated: 2023-12-30T23:59:57.957Z
 startTime: 2023-07-07T12:38:02.000Z
 generator: Upptime <https://github.com/upptime/upptime>
